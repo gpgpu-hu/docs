@@ -51,7 +51,7 @@ Ide gyűjtjük azokat a hivatalos forrásokat, dokumentációkat, illetve SDK-ka
 - [AMD - Performance Guide](https://gpuopen.com/performance/)
 - [NVIDIA - DX12 Dos and Don'ts](https://developer.nvidia.com/dx12-dos-and-donts)
 - [Intel - Optimization Guide for Intle Processor Graphics (Gen11)](https://www.intel.com/content/www/us/en/developer/articles/guide/developer-and-optimization-guide-for-intel-processor-graphics-gen11-api.html)
-- 
+
 ---
 # Eszközök
 
