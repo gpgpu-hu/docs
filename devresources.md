@@ -3,7 +3,9 @@ Ide gyűjtjük azokat a hivatalos forrásokat, dokumentációkat, illetve SDK-ka
 
 
 # Compute
-## HIP
+## AMD - ROCm / HIP
+- [ROCm documentation](https://docs.amd.com)
+- [AMD GPU Open](https://gpuopen.com)
 - [HIP Programming Guide v4.5](https://rocmdocs.amd.com/en/latest/Programming_Guides/HIP-GUIDE.html)
 - [HIP - github.com](https://github.com/ROCm-Developer-Tools/HIP)
 - [HIP Coding (ROCm Tutorial Part 3 (pdf)](https://developer.amd.com/wp-content/resources/ROCm%20Learning%20Centre/chapter3/HIP-Coding-3.pdf)
@@ -30,10 +32,62 @@ Ide gyűjtjük azokat a hivatalos forrásokat, dokumentációkat, illetve SDK-ka
 # Grafika
 
 ## Vulkan
+- [Vulkan Specification(s)](https://www.vulkan.org/learn#key-resources)
+- [LunarG Vulkan SDK](https://www.lunarg.com/vulkan-sdk/)
+- [Vulkan Official Sample Codes](https://github.com/khronosGroup/Vulkan-samples)
+- [Vulkan Official Guide](https://github.com/KhronosGroup/Vulkan-Guide)
+- [AMD - Performance Guide](https://gpuopen.com/performance/)
+- [AMD - Vulkan](https://gpuopen.com/vulkan/)
+- [NVIDIA - Vulkan Dos and Don'ts](https://developer.nvidia.com/blog/vulkan-dos-donts/)
+- [Intel - Optimization Guide for Intle Processor Graphics (Gen11)](https://www.intel.com/content/www/us/en/developer/articles/guide/developer-and-optimization-guide-for-intel-processor-graphics-gen11-api.html)
+
 ## OpenGL
+
 ## DirectX
+- [Direct3D Documentation](https://learn.microsoft.com/en-us/windows/win32/direct3d)
+- [Microsoft DirectX Graphics Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
+- [Microsoft DirectX Tool Kit](https://github.com/microsoft/DirectXTK12)
+- [AMD - Performance Guide](https://gpuopen.com/performance/)
+- [NVIDIA - DX12 Dos and Don'ts](https://developer.nvidia.com/dx12-dos-and-donts)
+- [Intel - Optimization Guide for Intle Processor Graphics (Gen11)](https://www.intel.com/content/www/us/en/developer/articles/guide/developer-and-optimization-guide-for-intel-processor-graphics-gen11-api.html)
+- 
+---
+# Eszközök
+
+## AMD
+- [AMD Developer Tool Suite](https://gpuopen.com/tools/)
+- [AMD Radeon GPU Profiler](https://gpuopen.com/rgp/)
+- [AMD Radeon GPU Analyzer](https://gpuopen.com/rga/)
+
+## NVIDIA
+- [NVIDIA Nsight Compute Profiler](https://developer.nvidia.com/nsight-compute)
+- [NVIDIA Nsight Graphics Profiler](https://developer.nvidia.com/nsight-graphics)
+
+## Intel
+- [Intel VTune Profiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html#gs.gipics)
+- [Intel Graphics Performance Analyzers](https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html)
+
+## OpenCL
+- [opencl.gpuinfo.org](https://opencl.gpuinfo.org): Az OpenCL-t támogató eszközök tulajdonságait gyűjtő és rendszerező oldal.
+
+## Vulkan
+- [vulkan.gpuinfo.org](https://vulkan.gpuinfo.org): A Vulkan-t támogató eszközök tulajdonságait gyűjtő és rendszerező oldal.
+
+## DirectX
+- [PIX Performance Tuning and Debugging](https://devblogs.microsoft.com/pix/documentation/)
+
+## Egyéb
+- [RenderDoc](https://renderdoc.org): Grafikus API-k képkocka debuggere és elemzési eszköze (Vulkan, DirectX11/12, OpenGL)
+
 
 ---
 
 # Hasznos leírások
 Ide gyűjtjük azokat az egyéni, nem hivatalos írásokat, blogokat, amelyek hasznosak tapasztalatokat, észrevételeket osztanak meg.
+
+## Vulkan
+- [Vulkan Tutorial (Alexander Overvoorde)](https://vulkan-tutorial.com)
+- [Vulkan Sample codes (Sascha Willems)](https://github.com/SaschaWillems/Vulkan): nagyban átfed a hivatalos ppéldakódokkal, de van benne pár extra azokhoz képest.
+
+# Egyéb
+- [Rastertek tutorials](https://www.rastertek.com/tutindex.html): DirectX 10, 11, 12 példakódok, illetve OpenGL4 példakódok.
