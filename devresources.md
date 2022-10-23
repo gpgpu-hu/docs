@@ -42,6 +42,7 @@ Ide gyűjtjük azokat a hivatalos forrásokat, dokumentációkat, illetve SDK-ka
 - [Intel - Optimization Guide for Intle Processor Graphics (Gen11)](https://www.intel.com/content/www/us/en/developer/articles/guide/developer-and-optimization-guide-for-intel-processor-graphics-gen11-api.html)
 
 ## OpenGL
+- [Khronos OpenGL / GLSL Specification(s)](https://registry.khronos.org/OpenGL/index_gl.php)
 
 ## DirectX
 - [Direct3D Documentation](https://learn.microsoft.com/en-us/windows/win32/direct3d)
@@ -85,9 +86,16 @@ Ide gyűjtjük azokat a hivatalos forrásokat, dokumentációkat, illetve SDK-ka
 # Hasznos leírások
 Ide gyűjtjük azokat az egyéni, nem hivatalos írásokat, blogokat, amelyek hasznosak tapasztalatokat, észrevételeket osztanak meg.
 
+## OpenGL
+- [learnopengl.com (Joey de Vries)](https://learnopengl.com)
+- [OpenGL Samples (Christophe Groovounet)](https://github.com/g-truc/ogl-samples)
+- [Modern OpenGL Tutorials (Etay Meiri)](https://ogldev.org)
+
 ## Vulkan
 - [Vulkan Tutorial (Alexander Overvoorde)](https://vulkan-tutorial.com)
 - [Vulkan Sample codes (Sascha Willems)](https://github.com/SaschaWillems/Vulkan): nagyban átfed a hivatalos ppéldakódokkal, de van benne pár extra azokhoz képest.
 
 # Egyéb
 - [Rastertek tutorials](https://www.rastertek.com/tutindex.html): DirectX 10, 11, 12 példakódok, illetve OpenGL4 példakódok.
+- [NVIDIA DesignWorks Samples](https://developer.nvidia.com/samples): Sokféle példakód, közöttük interop is, OpenGL, Vulkan, CUDA, OpenCL API-khoz.
+- [NVIDIA DesignWorks Samples - github.com](https://github.com/nvpro-samples)
