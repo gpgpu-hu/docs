@@ -86,6 +86,7 @@ Ide gyűjtjük azokat a hivatalos forrásokat, dokumentációkat, illetve SDK-ka
 # Hasznos leírások
 Ide gyűjtjük azokat az egyéni, nem hivatalos írásokat, blogokat, amelyek hasznosak tapasztalatokat, észrevételeket osztanak meg.
 
+
 ## OpenGL
 - [learnopengl.com (Joey de Vries)](https://learnopengl.com)
 - [OpenGL Samples (Christophe Groovounet)](https://github.com/g-truc/ogl-samples)
@@ -96,6 +97,15 @@ Ide gyűjtjük azokat az egyéni, nem hivatalos írásokat, blogokat, amelyek ha
 - [Vulkan Sample codes (Sascha Willems)](https://github.com/SaschaWillems/Vulkan): nagyban átfed a hivatalos ppéldakódokkal, de van benne pár extra azokhoz képest.
 
 # Egyéb
+- [AMD GCN ISA Instruction Timings](https://clrx.nativeboinc.org/wiki2/wiki/wiki/GcnTimings): A GCN utasításkészlet időzítései
+- [GPU Database](db.thegpu.guru): GPU-k hardver tulajdonságainak összegyűjtött adatbázisa
 - [Rastertek tutorials](https://www.rastertek.com/tutindex.html): DirectX 10, 11, 12 példakódok, illetve OpenGL4 példakódok.
 - [NVIDIA DesignWorks Samples](https://developer.nvidia.com/samples): Sokféle példakód, közöttük interop is, OpenGL, Vulkan, CUDA, OpenCL API-khoz.
 - [NVIDIA DesignWorks Samples - github.com](https://github.com/nvpro-samples)
+- [Microsoft GLSL - HLSL Porting Reference](https://learn.microsoft.com/en-us/windows/uwp/gaming/glsl-to-hlsl-reference)
+- [Scratchapixel](https://www.scratchapixel.com): Bevezető a számítógépes grafikába
+- [Veldrid](https://veldrid.dev): Alacsonyszintű grafikus könyvtár .Net-hez, viszont a leírások között nagyon jó összehasonlítások vannak a különböző API-k között.
+- [Concept Mapping Chart (computergraphics.stackexchange.com)](https://computergraphics.stackexchange.com/questions/4422/directx-openglvulkan-concepts-mapping-chart): A különböző API-k azonos koncepcióinak áttekintő táblázatai
+- [Matthäus G. Chajdas Blog](https://anteru.net/blog/archive/): Számos hasznos írás különböző API-kkal kapcsolatban (mostanában kevésbé)
+- [Adam Sawicki Blog](https://www.asawicki.info/news): Hasznos tapasztalatok Vulkan / DirectX12 és kapcsolódó témakörökben
+- [NVIDIA - Life of a Triangle](https://developer.nvidia.com/content/life-triangle-nvidias-logical-pipeline): Egy régebbi írás az NVIDIA grafikus szerelőszalagjának logikai felépítéséről
