@@ -57,3 +57,6 @@
 ### Angolul
 - [phoronix.com](https://www.phoronix.com/)
 - [gpumag.com](https://www.gpumag.com/)
+
+### 3D Grafika
+- [Graphics Programming Weekly (Jendrik Illner)](https://www.jendrikillner.com/article_database/): Számítógépes grafika hírek, újdonságok
