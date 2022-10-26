@@ -106,6 +106,9 @@ Ide gyűjtjük azokat az egyéni, nem hivatalos írásokat, blogokat, amelyek ha
 - [Scratchapixel](https://www.scratchapixel.com): Bevezető a számítógépes grafikába
 - [Veldrid](https://veldrid.dev): Alacsonyszintű grafikus könyvtár .Net-hez, viszont a leírások között nagyon jó összehasonlítások vannak a különböző API-k között.
 - [Concept Mapping Chart (computergraphics.stackexchange.com)](https://computergraphics.stackexchange.com/questions/4422/directx-openglvulkan-concepts-mapping-chart): A különböző API-k azonos koncepcióinak áttekintő táblázatai
+- [Graphics Programming Weekly (Jendrik Illner)](https://www.jendrikillner.com/article_database/): Számítógépes grafika hírek, újdonságok
 - [Matthäus G. Chajdas Blog](https://anteru.net/blog/archive/): Számos hasznos írás különböző API-kkal kapcsolatban (mostanában kevésbé)
 - [Adam Sawicki Blog](https://www.asawicki.info/news): Hasznos tapasztalatok Vulkan / DirectX12 és kapcsolódó témakörökben
+- [Ponies & Light Blog (Tim Gfrerer)](https://poniesandlight.co.uk/reflect/): Programozás, Grafika, Vulkan témakörök
 - [NVIDIA - Life of a Triangle](https://developer.nvidia.com/content/life-triangle-nvidias-logical-pipeline): Egy régebbi írás az NVIDIA grafikus szerelőszalagjának logikai felépítéséről
+- [sirpalee - awesome-source](https://github.com/sirpalee/awesome-source): Egy másik, ehhez hasonló link gyűjtemény, akár a mostani oldal előfutárának is tekinthető, köszönet érte!
